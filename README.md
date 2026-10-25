@@ -29,4 +29,4 @@ You can click to any folder here if you wish to see the specific tools pertainin
 
 *  **[06. Mobile Security](./06-Mobile-Security/)**
 
-  I will try to update this list as much as possible as my threat modeling shifts or my methodology shifts. Thank you.
+  I will try to update this list as much as possible as my threat modeling shifts or my methodology shifts. I am currently a student going into the cybersecurity field and am still learning some of the practices so things may change as my schooling goes on. With that being said thank you for being here and enjoy the personal documentation/guide I have created.
