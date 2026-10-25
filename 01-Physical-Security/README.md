@@ -23,3 +23,6 @@ This layer operates on the principle of **Hardware Sovereignty**. It stands for 
 
 *  **[Privacy Screen](./privacy-screen.md/)**
 *  *Defeating visual eavesdropping and shoulder surfing in public spaces.*
+
+*  **[Hardware Selection](./hardware-selection.md/)**
+*  *The reason I chose open source firmware and hardware with a reputable privacy focused company to buy my laptop from.*
