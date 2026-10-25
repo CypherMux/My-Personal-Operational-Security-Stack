@@ -10,7 +10,7 @@ Operational Security is meaningless without knowing the correct threat model in 
 The Philosophy Behind the Scene
 --------------------------------
 
-My main goal behind what I am doing here is maximum attack surface reduction without hindering daily usability. Of course this does not mean everything will be the same after implementing these practices of course they won't because as the saying goes the more privacy adjacent you become the less convenient your experience becomes also but my exact practices are meant to make you more private while making the experience as usable as it can possibly be. I don't believe in adding friction just for the sake of it so every tool in this stack is only there to mitigate a specific, realistic threat.
+My main goal behind what I am doing here is maximum attack surface reduction without hindering daily usability. Of course this does not mean everything will be the same after implementing these practices of course they won't because as the saying goes the more privacy adjacent you become the less convenient your experience becomes but my exact practices are meant to make you more private while making the experience as usable as it can possibly be. I don't believe in adding friction just for the sake of it so every tool in this stack is only there to mitigate a specific, realistic threat.
 
 The Layers
 ----------
@@ -18,3 +18,15 @@ The Layers
 You can click to any folder here if you wish to see the specific tools pertaining to the layer and the "why" behind them:
 
 *  **[01. Physical Security](./01-Physical-Security/)**
+
+*  **[02. Operating System](./02-Operating-System/)**
+
+*  **[03. Network Privacy](./03-Network-Privacy/)**
+
+*  **[04. Identity/Credentials](./04-Identity-Credentials/)**
+
+*  **[05. Financial Privacy](./05-Financial-Privacy/)**
+
+*  **[06. Mobile Security](./06-Mobile-Security/)**
+
+  I will try to update this list as much as possible as my threat modeling shifts or my methodology shifts. Thank you.
