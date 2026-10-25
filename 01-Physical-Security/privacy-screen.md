@@ -6,7 +6,7 @@
 
 You can have the strongest encryption in the world, but if an attacker can just look over your shoulder while you type your master passphrase to decrypt your drive, they can bypass all your digital defenses and just remember the password you just typed in.
 
-Whether I am working at a coffee shop, at college, in a library, my screen is a massive billboard in a sense that broadcasts my data to anybody nearby. A privacy screen is a physical polarizing filter that limits the viewing angle of the display to mitigate such an effect while I am out in public.
+Whether I am working at a coffee shop, at college or in a library my screen is a massive billboard in a sense that broadcasts my data to anybody nearby. A privacy screen is a physical polarizing filter that limits the viewing angle of the display to mitigate such an effect while I am out in public.
 
 ## Implementation
 
