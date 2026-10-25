@@ -26,4 +26,4 @@ Whether I am working at a coffee shop, at college or in a library my screen is a
 
 **Dimming:** Privacy screens by design block about 30-40% of the light from your screen. This will make your screen look dimmer and may require you to turn your brightness up decreasing your overall battery life.
 
-**Washed Out Colors:** If you are a graphic designer or a video editor for example, a privacy screen will mess with some of the color 
+**Washed Out Colors:** If you are a graphic designer or a video editor for example, a privacy screen will mess with some of the color.
