@@ -17,4 +17,8 @@ This layer is all about **Traffic Obfuscation and Network Sovereignty**. The goa
 *  **[GNU IceCat](./icecat-librejs.md/)**
 *  *Using a hardened, libre software focused browser for daily clear net browsing to block malicious non-free JS on sketchy sites.*
 
-*  
+*  **[Mullvad Browser](./mullvad-browser.md/)**
+*  *Using a fingerprint-resistant and privacy focused browser when IceCat is inoperable due to excessive JS usage on a site. Also works extremely well in conjunction with Mullvad VPN*
+
+*  **[Privacy Extensions](./privacy-extensions.md/)**
+*  *The specific privacy and security focused extensions I use in my browsers to block trackers and overall harden my browser.*
