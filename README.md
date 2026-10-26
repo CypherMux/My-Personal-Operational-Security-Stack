@@ -1,4 +1,4 @@
-# My-Personal-OPSEC-Stack
+# My Personal OPSEC Stack
 
 Welcome to my documentation of the personal digital security and privacy architecture I use day to day to stay safe online and offline!
 
