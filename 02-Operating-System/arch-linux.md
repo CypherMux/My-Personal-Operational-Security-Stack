@@ -27,3 +27,7 @@ This *minimalism by default* approach means:
 **Maintenance:** Arch requires attention. You have to read the Arch news before doing a system upgrade via ```sudo pacman -Syu``` occasionally to make sure a package update does not brick your system or if it may require manual intervention on your part.
 
 **The Breaking Phase:** Because you have root access to everything, it is incredibly easy to break your system if you type the wrong command with root privileges.For example my first time setting up Arch I messed up the partition tables and only had 64GB of space on my system out of the 4TB I had on my SSD(oops). You are a bound to make mistakes your first time setting it up as it is an extremely advanced Linux distro and requires prior Linux knowledge to set up properly your first time. Consider it a learning experience it will make you better in the long run.
+
+## The Verdict
+
+Arch is not a distribution meant for beginners to the Linux OS, but for someone who wants a transparent, auditable, and minimal operating system, it is the gold standard when it comes to that. (Unless you want to suffer through LFS of course lol)
