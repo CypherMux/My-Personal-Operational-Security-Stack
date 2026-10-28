@@ -27,10 +27,38 @@ I use the Tor Browser specifically for high risk compartmentalization. It is not
 
 ## Implementation
 
-**The Browser:** The Official Tor Browser
+*  **The Browser:** The Official Tor Browser
 
 Here is a link to the download page if you are curious about trying it yourself:
 
 https://torproject.org
+
+*  **The Network:** With Tor I often use a bridge in conjunction with it such as **obs4** or **snowflake**,especially if I am on a network which heavily restricts or outright bans access to the Tor Network. What a bridge does is make your traffic look like random noise like a video call for instance to slip by these network wide Tor filters. If you would like to know more about bridges and how they work/function, you can click the link below that I have provided from the official Tor documentation:
+
+  https://support.torproject.org/tor-browser/circumvention/using-bridges/
+
+*  **Security Level:** The majority of the time I will run the browser on the safest level as it offers the most protection overall, but if anything breaks on a site I may go down a level or two just so it can function accordingly. The safest setting for Tor does block JavaScript by default so this can happen occasionally.
+
+## Operational Security Rules
+
+Using Tor correctly is imperative to make your browsing experience on it is truly *private*. These are the rules I follow to make sure my browsing experience stays as private as can be:
+
+*  **Never log in to personal accounts:** If you were to log into a personal email or social media account on Tor, it will instantly de-anonymize you for the rest of the session you are in and link your identity straight back to your activity. Always make sure that the browsing you do does not link back to you whatsoever.
+
+*   **Never Maximize The Browser Window:** This is a much less known vulnerability with Tor and Tor will warn you about it from time to time. Maximizing the browser window leaks your exact screen resolution, which is a massive way that fingerprinting can occur for the session you are currently in.
+
+*   **No Extra Extensions:** Tor is intended to be used with close to no extensions minus the few the developers throw in there for extra anonymity. Tor Browser is carefully tuned in this way to make everyone look identical which means adding additional extensions will do nothing but ruin your anonymity while browsing.
+
+## Some Trade Offs
+
+*  **Speed:** Because your traffic is going across three different encrypted relays across the world, the Tor network is and will ever be slower than any standard web browser.
+
+*  **Captchas:** Because so many bots and malicious actors use the Tor Browser for illicit activities, companies like Google or Cloudflare will often bombard you with captchas or straight up just not allow you into a site to begin with.
+
+## The Verdict
+
+Tor is not for convenience in the slightest, it is for maximum anonymity and only maximum anonymity. When I need it, I am willing to accept the friction and latency that come with it for that exact reason.
+
+
 
 
