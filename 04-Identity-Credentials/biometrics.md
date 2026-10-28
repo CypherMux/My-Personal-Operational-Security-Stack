@@ -27,6 +27,6 @@ I personally have completely disabled biometrics on all of my devices which have
 
 ## The Verdict
 
-Most people are so used to and addicted to convenience that they trade their legal rights for a split second of split time and they don't even know it. I am willing to endure the friction of typing a password to maintain strict control over my device and my identity.
+Most people are so used to and addicted to convenience that they trade their legal rights for a split second of saved time and they don't even know it. I am willing to endure the friction of typing a password to maintain strict control over my device and my identity.
 
 
