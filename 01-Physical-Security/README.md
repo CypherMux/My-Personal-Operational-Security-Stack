@@ -25,4 +25,4 @@ This layer operates on the principle of **Hardware Sovereignty**. It stands for 
 *  *Defeating visual eavesdropping and shoulder surfing in public spaces.*
 
 *  **[Hardware Selection](./hardware-selection.md/)**
-*  *The reason I chose open source firmware and hardware from a reputable privacy focused company to buy my laptop from.*
+*  *The reason I chose open source firmware and hardware from a reputable, privacy focused company.*
