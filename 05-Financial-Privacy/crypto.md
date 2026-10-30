@@ -69,3 +69,23 @@ Because Monero is private, every XMR in turn is completely identical and has no 
 ## The Verdict
 
 For my specified threat model, cryptographically sound privacy is absolutely worth the trouble to maintain such as the additional storage requirements I need to store my wallet.
+
+## Join The Monero Circular Economy Yourself
+
+In a world where financial surveillance is becoming the default, Monero represents a critical tool for human rights and financial sovereignty.
+
+It is not just "crypto for criminals"*(a common media trope against monero, keep in mind the same thing was said before Bitcoin became mainstream due to its pseudonymous nature)*, it is the only decentralized digital cash that provides the same level of privacy as physical cash. It is used by journalists, activists, and ordinary citizens who simply do not want their entire financial lives tracked and monetized by data brokers or corporations.
+
+If you want to learn more about the underlying technology or support the project, here are the official resources you can dig through:
+
+*  **[The Monero Project](https://www.getmonero.org/)**
+*  *The official website and documentation.*
+
+*  **[Monero Research Lab (MRL)](https://www.getmonero.org/resources/research-lab/)**
+*  *The cryptographers and researchers behind the protocol which is a great place to read the original whitepapers on protocols such as RingCT and FCMP++ for example.*
+
+*  **[Monero Github Repository](https://github.com/monero-project/monero)**
+*  *The open source codebase for the project.*
+
+*  **[Monero Outreach](https://www.monerooutreach.org)**
+*  *A community driven workgroup dedicated to educating the public about Monero.*
