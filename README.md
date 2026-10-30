@@ -2,6 +2,12 @@
 
 Welcome to my documentation of the personal digital security and privacy architecture I use day to day to stay safe online and offline!
 
+## What is Operational Security?
+
+Operational Security is not just about using a VPN or having a strong password. It originated as a military term and it is the process of identifying seemingly harmless pieces of data that an adversary could piece together to compromise you and then piece by piece systematically eliminating those vulnerabilities.
+
+In the digital world, Operational Security is the practice of **threat modeling**. It is the realization that every action you take online such as a DNS request, a browser fingerprint, or a hardware identifier, leaves a trace. It is the methodology of shrinking your attack surface, compartmentalizing your data, and ensuring that even if one layer falls out of your stack, the rest of your digital life remains private and secure.
+
 The Threat Model
 ----------------
 
