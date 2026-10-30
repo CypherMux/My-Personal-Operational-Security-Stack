@@ -42,4 +42,28 @@ I currently use **XMRig** to achieve this. XMRig is a high performance, open sou
 
 *   **2. Thermal Management:** Mining will push your CPU to 100% load. I use a tool called `lm-sensors`, which is available in the AUR repository, to monitor system temperatures, voltage, etc. If my CPU ever hits 85C+ I reduce the thread count to cool the system off and increase its longevity. Hardware degradation is another security risk as availability matters just as much as confidentiality and integrity in this scenario.
 
-*   **3. Network Isolation:** Whether I am mining on a public network or not, which majority time I am not but the point still stands,
+*   **3. Network Isolation:** Whether I am mining on a public network or not, which majority time I am not but the point still stands, I ensure all of my mining traffic is routed through my Mullvad VPN. This is to prevent the viewing of my XMRig mining traffic, further increasing my privacy while mining.
+
+### 2. P2P Swaps(Non-Custodial Trading)
+
+When I do need to trade other assets for Monero I utilize decentralized, non-custodial platforms such as *atomic swaps* for example.
+
+* These platforms connect buyers and sellers directly without a central intermediary.
+
+* I do not hand over my government ID to a central authority in order to conduct such swaps.
+
+* The trades are solely conducted peer to peer, minimizing the digital paper trail and keeping my financial data out of centralized databases to lessen the risk of a breach exposing my personal information.
+
+### 3. Spending The Asset
+
+To complete the loop, I use Monero as a medium of exchange for services that respect privacy, for example I use Monero to pay for my Mullvad VPN account. This creates a closed loop ecosystem. I acquire Monero privately, hold it privately, and spend it privately.
+
+## The Trade Off
+
+*  **Friction:** P2P trading and self mining are significantly slower and require much more technical knowledge than typing a credit card number into a centralized exchange meaning there is a much higher barrier of entry for such a task.
+
+*  **Vigilance:** P2P marketplaces require you to be highly vigilant against scammers, as there is no centralized customer support to reverse a bad transaction. The privacy preserving tools within Monero also obfuscate the scammer meaning if you get scammed you most likely will not receive your money back and it is lost forever.
+
+## The Verdict
+
+I am willing to trade convenience if it means absolute financial privacy. The additional time and effort required to acquire such assets through decentralized methods is worth it 100% to keep my identity secure.
