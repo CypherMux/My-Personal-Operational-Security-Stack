@@ -14,4 +14,13 @@ This layer focuses on **Financial Security and Cryptographic Privacy**. It docum
 *  **[Tails OS for Financial Management(Crypto Wallets)](./tails-usb.md/)**
 *  *Using an air gapped, amnesic operating system to securely manage my private keys and sign transactions via my crypto wallets.*
 
-*  **[P2P Exchanges(Decentralized Trading)](./
+*  **[P2P Exchanges(Decentralized Trading)](./p2p-exchanges.md/)**
+*  *Why I utilize peer to peer networks and self mining instead of using KYC heavy exchanges to acquire my cryptocurrency.*
+
+## Disclaimer 
+
+This content in this section is provided **strictly** for educational and informational purposes regarding personal privacy,cryptography, and operational security.
+
+I do not condone, encourage, or participate in tax evasion, money laundering, the purchase of illicit goods, or other illegal activities which are ever so prevalent on the Monero blockchain. These actions some individuals do with Monero are simply an after effect of how privacy preserving it truly is and is unavoidable. All financial tools and strategies documented in this section are used in full compliance with local,state, or federal laws.
+
+Privacy is **not** a crime, nor will it ever be. Understanding how cryptographic systems work is essential for protecting ones self against centralized data breaches. Always consult with a licensed financial professional regarding your specific situation if applicable. Thank you.
