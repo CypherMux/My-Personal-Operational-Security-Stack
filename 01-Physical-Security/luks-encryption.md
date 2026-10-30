@@ -4,9 +4,9 @@
 
 ## Why Do I Do This?
 
-If my laptop is stolen out of my bag at a coffee shop for example, I want 100% confidence and assurance that the thief cannot access my files, crypto wallets, or my BitWarden vault.
+If my laptop is stolen out of my bag at a coffee shop for example, I want 100% confidence that the thief cannot access my files, crypto wallets, or my Bitwarden vault.
 
-Even if an thief were to remove the NVMe SSD and insert it into another machine, they will always hit a cryptographic wall which I put in place to ensure they can get to nothing. LUKS, or Linux Unified Key Setup, encrypts the entire block device, rendering the data indistinguishable from random noise without correctly guessing the correct passphrase to decrypt it.
+Even if a thief were to remove the NVMe SSD and insert it into another machine, they will always hit a cryptographic wall which I put in place to ensure they can get to nothing. LUKS, or Linux Unified Key Setup, encrypts the entire block device, rendering the data indistinguishable from random noise without correctly guessing the passphrase to decrypt it.
 
 ## Implementation Details
 
@@ -18,7 +18,7 @@ Even if an thief were to remove the NVMe SSD and insert it into another machine,
 
 ## Why Such A Long Password?
 
-Why do you we need to use such a complex and long password? Because brute-forcing attacks become harder and harder the more complex and long your password becomes, and eventually becomes infeasible to use to crack your password the longer it becomes. For example a 36 character random string is mathematically impossible with current technology to brute-force. Even with a super computer, it would take longer than the life span of the universe to crack such a string.
+Why do we need to use such a complex and long password? Because brute-forcing attacks become harder and harder the more complex and long your password becomes, and eventually becomes infeasible to use to crack your password the longer it becomes. For example a 36 character random string is mathematically impossible with current technology to brute-force. Even with a super computer, it would take longer than the lifespan of the universe to crack such a string.
 
 **Why memorize it instead of storing it?**
 
@@ -26,10 +26,18 @@ If the passphrase is written on a sticky note on the laptop, the encryption you 
 
 ## How to Verify It
 
-You can verify by this by setting it up and then rebooting your machine. If everything went well your screen should show a black screen with a login prompt asking for your master passphrase.
+You can verify your encryption details by running the following command on your system:
+
+```sudo cryptsetup luksDump /dev/nvme0n1p2```
+
+*Look for ```Cipher: aes-xts-plain64``` and ```Key: 512 bits``` in the output.*
 
 ## The Trade Offs
 
 **The "Hit By a Bus" Dilemma:** Because the password is only in my head, there is a risk of permanent data loss if I suffer a head injury or forget it as a whole, I've already been working towards steps to mitigate this but it is always on the table.
+
+## The Verdict
+
+The 3 second friction of typing a long password to successfully decrypt my hardware is a small price to pay for absolute data sovereignty.
 
 
