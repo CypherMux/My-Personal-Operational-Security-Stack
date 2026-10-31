@@ -4,17 +4,17 @@
 
 ## Why is this so important?
 
-By default, Linux/Windows/MacOS all trust any USB device you plug into your machine. A malicious actor with just 5 seconds or less of physical access to an unlocked or locked device can plug in a device disguised as a mini keyboard or more widely known as a BadUSB. The device instantly can type a script to open a terminal, download malware, and execute it at superhuman speeds. This is known as a **BadUSB** attack.
+By default, Linux, Windows, and MacOS all trust any USB device you plug into your machine. A malicious actor with just 5 seconds or less of physical access to an unlocked or locked device can plug in a device disguised as a mini keyboard or more widely known as a BadUSB. The device instantly can type a script to open a terminal, download malware, and execute it at superhuman speeds. This is known as a **BadUSB** attack.
 
-USBGuard solves this by implementing a kernel level authorization framework. The software intercepts any and all USB devices before their drivers even load. If the device's vendor ID, product ID, and serial number are not explicitly in the allow list set by the USBGuard config file, the kernel blocks it from interacting with the system as a hard coded safety measure.
+USBGuard solves this by implementing a kernel-level authorization framework. The software intercepts any and all USB devices before their drivers even load. If the device's vendor ID, product ID, and serial number are not explicitly in the allow list set by the USBGuard config file, the kernel blocks it from interacting with the system as a hard coded safety measure.
 
 ## Implementation
 
-**Policy:** Default of the software is to deny all connections,everything is blocked unless allowed via your config file tied to USBGuard which is only allowed to be accessed by a root user stopping any need be intruders from getting in if your root user is locked down enough.
+**Policy:** Default of the software is to deny all connections,everything is blocked unless allowed via your config file tied to USBGuard which is only allowed to be accessed by a root user preventing potential intruders from getting in if your root user is locked down enough.
 
 **The Allow List:** I generated an allow list that is a base line rule set in which the software goes by while activated. It explicitly ONLY only allows my built-in keyboard, touchpad, my mouse, and my hardware security key to access the machine.
 
-**Permissions:** The rules file, which is stored in ```/etc/usbguard/rules.conf``` by default is strictly locked down with the permission ID of 600, meaning it is only read/write to the root user. This is again as explained prior to prevent tampering if an intruder does know where the file to change access resides and is another blockade for them to pass.
+**Permissions:** The rules file, which is stored in ```/etc/usbguard/rules.conf``` by default is strictly locked down with the permissions of 600, meaning it is only read/write to the root user. This is again as explained prior to prevent tampering if an intruder does know where the file to change access resides and is another blockade for them to pass.
 
 ## Disclaimer
 
