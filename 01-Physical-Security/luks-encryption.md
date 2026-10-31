@@ -12,7 +12,7 @@ Even if a thief were to remove the NVMe SSD and insert it into another machine, 
 
 **Encryption:** LUKS2
 
-**Cipher Utilized:** AES-256-XTS (this is the current industry standard for full disk encryption although this may change as quantum computers become more prevalent).
+**Cipher Utilized:** AES-256-XTS *(this is the current industry standard for full disk encryption although this may change as quantum computers become more prevalent.)*.
 
 **Passphrase:** A good complex password is essential to be able to properly secure your system. I recommend one at least 24 characters or more personally as anything after that and with enough complexity is infeasible to crack in a conceivable amount of time.
 
