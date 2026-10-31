@@ -1,18 +1,18 @@
 # The Privacy Screen (Anti-Shoulder Surfing)
 
-**Threat Mitigated:** "Visual Hacking", such as shoulder surfing, and visual eavesdropping in public spaces.
+**Threat Mitigated:** "Visual hacking", such as shoulder surfing, and visual eavesdropping in public spaces.
 
 ## Why This is So Important
 
 You can have the strongest encryption in the world, but if an attacker can just look over your shoulder while you type your master passphrase to decrypt your drive, they can bypass all your digital defenses and just remember the password you just typed in.
 
-Whether I am working at a coffee shop, at college or in a library my screen is a massive billboard in a sense that broadcasts my data to anybody nearby. A privacy screen is a physical polarizing filter that limits the viewing angle of the display to mitigate such an effect while I am out in public.
+Whether I am working at a coffee shop, at college, or in a library, my screen is a massive billboard in a sense that broadcasts my data to anybody nearby. A privacy screen is a physical polarizing filter that limits the viewing angle of the display to mitigate such an effect while I am out in public.
 
 ## Implementation
 
 **The Gear:** A magnetic or slide-mount filter, personally I recommend the ones that don't require adhesive so you can easily remove them if you are in a private room.
 
-**The Effect:** If you are looking at the screen directly, it looks just like a normal screen. But if someone were to be sitting next to you, even just slightly off center, the screen will appear completely black or heavily distorted to them.
+**The Effect:** If you are looking at the screen directly, it looks just like a normal screen. But if someone were to be sitting next to you, even just slightly off-center, the screen will appear completely black or heavily distorted to them.
 
 ## The Use Case in My Personal OPSEC Stack
 
@@ -30,4 +30,4 @@ Whether I am working at a coffee shop, at college or in a library my screen is a
 
 ## The Verdict
 
-For a cybersecurity professional, the trade-offs are 100% worth it in the long run. It is one of the cheapest and most effective ways you can control your physical security in which you can buy.
+For a cybersecurity professional, the trade-offs are 100% worth it in the long run. It is one of the cheapest and most effective ways you can control your physical security you can buy.
