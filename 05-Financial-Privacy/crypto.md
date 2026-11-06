@@ -58,7 +58,7 @@ Most cryptocurrencies use a *gossip protocol* where nodes will broadcast transac
 
 ## The Concept of Fungibility
 
-Fungibility means that one unit of a specified currency is indistinguishable another *(1XMR=1XMR for example)*. Because Bitcoin is a transparent blockchain, if a specific Bitcoin was used in a hack 5 years ago for example an exchange may blacklist that Bitcoin, making Bitcoin fundamentally not a fungible currency which is one of the most important aspects of a currency as a whole. 
+Fungibility means that one unit of a specified currency is indistinguishable to another *(1XMR=1XMR for example)*. Because Bitcoin is a transparent blockchain, if a specific Bitcoin was used in a hack 5 years ago for example an exchange may blacklist that Bitcoin, making Bitcoin fundamentally not a fungible currency which is one of the most important aspects of a currency as a whole. 
 
 Because Monero is private, every XMR in turn is completely identical and has no traceable history. This makes it the only true *digital cash* as of present day.
 
